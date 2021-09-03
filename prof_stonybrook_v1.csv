@@ -1,0 +1,454 @@
+name,position,email,field of interest,research
+Ahmad Esmaili,Lecturer and ISE Undergraduate Program Director,Email:†esmaili@cs.stonybrook.edu,"Design and Analysis of Algorithms, Web Technologies, Information Systems, Computer Science Education, Mobile Application Development.","N/A
+"
+Shubham Jain,Assistant Professor,Email:†jain@cs.stonybrook.edu,"Mobile Sensing, Wearable Health, Cyber-physical Systems, Smart Cities","Shubham Jain's research interests are in smart environments, wearable health sensing frameworks, and cyber-physical systems (CPS). Her expertise lies in leveraging pervasive sensing devices toward developing multimodal data integration and interpretation frameworks. Her research enables mobile devices to expand their role and innovate new services, ranging from continuous health monitoring to large-scale video analytics and pedestrian safety.
+"
+Francesco Orabona, Research Assistant Professor,Email:†francesco@cs.stonybrook.edu,Design and analysis of machine learning algorithms,"
+Francesco Orabona†focuses on a very simple but often ignored topic: How to make machine learning algorithms really automatic? How to remove the constant need for a human (PhD student?) to hand tune all the knobs of an algorithm till it finally works?
+"
+Joydeep Mitra,Research Assistant Professor,Email:†jmitra@cs.stonybrook.edu,"Mobile Security, Programming Languages, Software Development Methodologies, Cheminformatics","Joydeep Mitra is interested in exploring ways to build secure and robust software systems. He is currently focused on Mobile application (app) security. In this context, his work involves developing benchmarks and measures to empirically evaluate solutions related to Mobile app security along with developing design methodologies that aid in building secure mobile apps. His research has led to the discovery of vulnerabilities in Android, which were publicly acknowledged and fixed by Google.
+Apart from his primary interest in secure software engineering, he is also interested in developing tools, techniques, and algorithms that facilitate the use and analysis of data. Consequently, he has worked on Cheminformatics, which deals with use of computers and informational techniques to solve problems related to Chemistry, specifically Crystallography.
+"
+Scott Stoller,Professor,Email:†stoller@cs.stonybrook.edu,"Distributed Systems, Fault-tolerance and Security, Software Testing and Verification, Program Analysis and Optimization.
+","Scott Stoller's primary research interests are design, analysis, optimization, testing, and verification of software, with focuses on computer security, concurrency, and incremental computation.
+"
+Tahsin M. Kurc,"Research Associate Professor and Vice Chair, Biomedical Informatics",Email:†tahsin.kurc@stonybrook.edu,"Biomedical Informatics, Imaging Informatics, Clinical  Translational Research Informatics and High-End Computing.","Tahsin†Kurc's research areas include high-performance data-intensive computing, runtime systems for efficient storage and processing of very large scientific datasets, domain decomposition methods for unstructured domains, parallel algorithms for scientific and engineering applications, and scientific visualization on high-performance machines.
+"
+Gregory Zelinsky,"Professor, Psychology",Email:†gregory.Zelinsky@stonybrook.edu,"Visual Cognition (Attention, Search, Scene Perception, and Visual Working Memory), with Emphasis on The Behavioral and Computational Study of Eye Movements.","Gregory Zelinsky's goal is to better understand visual cognition by following two interrelated research paths. First, he monitors and analyzes how people move their eyes as they perform various visual search and visual working memory tasks. He does this in order to obtain an on-line and directly observable measure of how a behavior intimately associated with the selection and accumulation of information (i.e., eye movements) changes in space and time during a task. Second, he attempts to describe this oculomotor behavior in the context of image-based neurocomputational models. These models perform the same task and ""see"" the same stimuli as human observers, and output a sequence of simulated eye movements that can be compared to human behavior. These comparisons are then used to generate new hypotheses to further test the representations and processes underlying task performance.
+"
+Haibin Ling,SUNY Empire Innovation Professor,Email:†haibin.ling@stonybrook.edu,"Computer Vision, Medical Image Analysis, Augmented Reality and Human-Computer Interaction.","Haibin Ling‚Äôs research is†in many vision topics and applications, with strong connections to biomedical image analysis, artificial intelligence, human computer interaction and augmented reality. His research goal is to endow machines with the abilities to see and understand the visual world, and to interact with it. For this purpose, he has devoted efforts to a wide range of topics such as visual tracking, recognition, detection, image enhancement, etc.
+"
+Michael Kifer,Professor,Email:†kifer@cs.stonybrook.edu,"Declarative Languages for Data and Knowledge Manipulation, The Semantic Web, Integration of Object-oriented and Deductive Paradigms, Object-oriented Databases, Query Optimization, Logic Programming, and Artificial Intelligence","In over 30 years of his research career, Dr. Kifer has made significant breakthroughs in the areas of databases, logic programming, knowledge representation, and semantic web. He has published four text books and numerous articles in these areas. He co-invented F-logic, HiLog, Annotated Logic, and Transaction Logic, for which he received several awards and which became some of the most widely cited works in his area of research. With his students, Dr. Kifer developed a sophisticated knowledge representation and reasoning system Flora-2 and has made significant contributions to other important software projects.
+"
+Tony Scarlatos,Senior Lecturer,Email:†tony@cs.stonybrook.edu,"Multimedia, Interface Design, Computer-based Training, and Distance Learning.","Tony Scarlatos' research interests include computer-based training, distance learning, multimedia, computer-human interaction, and multimodal interfaces. With his combined background in the visual arts, education, and computer science, these are synergistic pursuits. The unifying goal of his research is to facilitate faster comprehension and longer retention for learners using technology.†
+This work has been supported through a number of grants: Long Island Lighting Company RD Initiative (1993  1994), New York State Department of Education (1997), and a Department of Commerce TIIAP grant (1998). My research is currently being supported by a National Science Foundation grant, ""CRCD: Innovative Approaches to Computer-Human Interfaces"" (2002 - 2006).
+"
+Michael Tashbook,Lecturer,Email:†tashbook@cs.stonybrook.edu,"Software Engineering (Specifically, Formal Methods and Software Reliability), Computer Science Education, and Biologically-inspired Computing.","N/A
+"
+Jie Gao,Research Professor,Email:†jgao@cs.stonybrook.edu,"Algorithms, Computational Geometry, Sensor Networks, Wireless Networks, Social Networks.","Jie Gao's research is on applied computational geometry and distributed algorithm design with applications in wireless sensor networks. Embedded networked sensing devices are becoming ubiquitous across many activities that are important to our economy and life. In these applications, the physical locations of the sensor nodes greatly impact the system design in all aspects from low-level networking and organization to high-level information processing and applications. From a networking point of view, node placement clearly influences network connectivity and sensing coverage, which subsequently affects basic network organization such as naming and routing in the network. From an application point of view, sensor readings exhibit spatial correlations that can be exploited for data compression, approximation and validation. The physical embedding of sensor nodes brings a unique character that differentiates sensor networks from traditional networks, and enables a whole new set of properties that can be exploited for design efficiency.
+"
+H. Andrew Schwartz,Assistant Professor,Email:†Andrew.Schwartz@cs.stonybrook.edu,"Large and scalable language analyses for psychological and health discovery; computational social science; natural language processing; lexical semantics; social media big data; human demography, personality, and mental well-being","Utilizing natural language processing and machine learning techniques, Andrew's research focuses on large scale language analysis for health and social sciences. His current projects include include predicting and characterizing mental and physical health from one's language in social media, automatic lexicon refinement, measuring human temporal orientation and optimism, passive crowd-sourcing through apps, and algorithms for data-driven discovery of human insights.
+"
+Samir R. Das,Professor and Chair,Email:†samir@cs.stonybrook.edu,"Mobile/Wireless Networking - protocols, systems and performance evaluation. ","Samir R. Das directs ""Wireless Networking and Systems Lab"" (or WINGS lab). The lab is engaged in research related to protocols, systems and performance evaluation of various forms of mobile/wireless networks. This includes local area networks, cellular wide area networks, ad hoc/mesh or sensor networks and more recently in free space laser networks.†
+†
+"
+Leo Bachmair,Professor,Email:†leo@cs.stonybrook.edu,"Computational Logic, Automated Deduction, Symbolic Computation.","N/A
+"
+Peter Milder,"Associate Professor, Electrical and Computer Engineering",Email:†peter.milder@stonybrook.edu ,"Automatic hardware generation and optimization tools; Domain-specific languages for hardware; Field-programmable gate arrays (FPGAs); Hardware for signal processing, communication systems, computer vision, and other areas","Peter Milder's research combines aspects of hardware design, FPGAs, compilers, and CAD, and focuses on applications in machine learning, DSP, and networking.
+He has created and maintained the†Spiral DFT/FFT IP Core Generator, an online tool to generate flexible hardware implementations of the discrete Fourier transform suitable for implementation as ASIC or FPGA.
+"
+Barbara Chapman,Professor,Email:†chapman@cs.stonybrook.edu,"Programming Models for Parallel Computing and Scalable Machine Learning; Compiler Technology; High Performance Computing; Application Development Tools.
+
+For more information, visit our website: https://you.stonybrook.edu/exascallab/","Much of Dr. Chapman's current research is focused on OpenMP, a recent industry standard for shared memory parallel programming that has been broadly accepted by the computing community. More details and publications can be found here.†
+"
+Michael Ferdman,Associate Professor,Email:†mferdman@cs.stonybrook.edu,"Computer architecture, operating systems, machine learning, reconfigurable hardware, FPGAs, GPUs, data centers, cloud computing, networks, internet security.","Michael Ferdman's research interests are in the area of computer architecture, with emphasis on the design of server systems. He works on the entire computing stack, from server software and operating systems, to networks and processor microarchitecture. His current research projects include FPGA accelerator integration into server environments (e.g., Intel HARP and Microsoft Catapult), FPGA programmability (e.g., virtual memory and high-level synthesis), accelerators for machine learning (e.g., convolutional neural networks), efficient network processing and software-defined networking, speculative performance and energy-enhancing techniques for high-performance processors, and programming models and mechanisms for emerging memory technologies (e.g., HBM and 3D XPoint).
+"
+Kevin McDonnell,CS Undergraduate Program Director and Associate Professor of Practice,Email:†ktm@cs.stonybrook.edu,"Computer Science Education, Visualization, Visual Analytics, Geometric Modeling, Computer Graphics","Kevin McDonnell's research projects and publication can be found here.
+"
+Yifan Sun,Assistant Professor,Email:†ysun@cs.stonybrook.edu,Convex and nonconvex optimization for machine learning and scientific computing,"Yifan Sun‚Äôs research focuses on large-scale optimization algorithms that arise in machine learning and scientific computing applications. This domain often includes problems that are often nonsmooth and nonconvex, in the context of heavy computation and memory requirements that must be curtailed through sampling and distribution. The research has three main themes: leveraging foundational concepts to provide intuition across applications and heuristics, developing and improving algorithms to adapt to modern day needs and resources, and giving theoretical guarantees on best- and worst-case behavior for the resulting methods. 
+"
+Radu Sion,Associate Professor,Email:†r@zxr.io ,"Cyber-Security, Applied Cryptography, Network Security, Systems Security, Systems, Large-Scale and Cloud Computing, Green Computing, and Cost and Energy-Efficiency.","Selection of Radu Sion's projects can be found†here.
+"
+Tuncay Tekle,Research Assistant Professor,Email:†tuncay@cs.stonybrook.edu,"High-level programming languages and efficient implementations. High-quality code that is reliable, fast, and maintainable. Query optimization and complexity analysis. Algorithm design and generation of efficient algorithms from specifications. Utilizing research and hands-on expertise to make software better in the retail industry.","Main researcher of the following projects:
+
+Development of a method for automatic time and space complexity analysis for on-demand evaluation of Datalog queries in tabled top-down evaluation engines.
+Development of a method for bottom-up evaluation of Datalog queries to achieve the same complexity as on-demand evaluation.
+Establishment of the precise relationship of on-demand evaluation and bottom-up evaluation of Datalog queries.
+Development of a novel combination of transformations for generating efficient implementations of graph queries for querying programs.
+Development of a method for generating specialized rules and programs from Datalog rules for on-demand analysis with respect to queries.
+Implementation of these transformations and analyses in Python, and interfacing the implementation with the XSB logic programming system.
+
+"
+Chao Chen,"Assistant Professor, Biomedical Informatics",Email:†chao.chen.1@stonybrook.edu,"Machine learning, Topological data analysis, Biomedical image analysis.","I explore geometric and topological properties of data. These global and robust information can provide insight for modern data analytics. My research draws from the following different domains.
+Machine learning: graphical models, structured learning.
+Topological data analysis: persistent homology, computation of topological features.
+Biomedical image analysis: medical images, neuron images, functional MRI.
+"
+Radu Grosu,Research Professor,Email:†radu.grosu@tuwien.ac.at,"Model-based Design, Analysis and Control of Complex Dynamic Systems, Model Checking, Abstract Interpretation, Logic and Automata Theory, Control Theory, Computational Methods in Systems Biology, Applied Formal Methods, Software and Systems Engineering, and UML.","The primary focus of Radu Grosu's research is to develop formal methods and tools which support the modeling and automated analysis of complex computational systems, including software systems, embedded systems and biological systems. The main emphasis is on approaches that scale well for realistic applications. My most notable contributions are in: Establishing a noncommutative Cayley-Hamilton theorem for finite automata; Showing that minimal nondeterministic finite automata may be related via linear transformations; Automatically detecting emergent properties in networks of cardiac myocytes; Automatically learning an efficient model for excitable cells; Defining a model checking technique that allows to trade time and space for precision and confidence; Defining compositional models for discrete and hybrid hierarchic automata, together with modular proof rules and search routines; Providing compositional semantics and refinement rules for UML sequence diagrams, and their automatic translation to statecharts; Providing an algebraic foundation of UML-RT in terms of trace categories; Giving a denotational semantics for dynamically reconfigurable systems.
+"
+Christian Luhmann,"Associate Professor, Cognitive Science",Email:†christian.luhmann@stonybrook.edu,"Decision making, learning, and computational modeling","The lab focuses on understanding complex human behavior in a variety of contexts. This work frequently employs computational methods, both those typically labeled as machine learning and more conventional statistical inference. These methods are used to develop theories of behavior and to analyze data sets.
+"
+Dennis Wong,Research Assistant Professor,Email:†dennis.wong@sunykorea.ac.kr,"Gray codes, de Bruijn sequences, Combinatorics, String algorithms, Graph theory, Algorithms, Discrete Mathematics, Theoretical computer science","Dennis is interested in understanding the structures and properties of a variety of combinatorial objects. One interesting problem is to devise algorithms that list out each instance of a combinatorial object such that each consecutive instances differ by a constant amount of changes. Such a listing is known as Gray code.†
+"
+Eugene Stark,Professor,Email:†stark@cs.stonybrook.edu,"Operating Systems, Programming Language Semantics, Concurrency Theory, Specification and Verification of Distributed Algorithms, and Functional Programming Languages.","List of Eugene Stark's current and past projects including:
+
+Probabilistic I/O Automata project page
+CARA Infusion Pump project page
+SAMSON Network Memory Server project page
+
+"
+Michael Bender,Professor,Email:†bender@cs.stonybrook.edu,"Algorithms, Data Structures, Scheduling, Cache and I/O-efficient Computing, and Parallel Computing.","Michael Bender is part of the Superlinear Indexes project, along with Martin Farach-Colton at Rutgers and Bradley Kuszmaul and Charles Leiserson at MIT. The Superlinear Index project is investigating data structures and algorithms for maintaining superlinear indexes on out-of-core storage (such as disk drives), with high incoming data rates. To understand what a superlinear index is, consider a linear index, which provides a total order on keys. A superlinear index is more complex than a total order. Examples of superlinear indexes including multidimensional indexes and full-text indexes.
+"
+Scott Smolka,Distinguished Professor,Email:†sas@cs.sunysb.edu,"Model Checking, Semantics of Concurrency, CASE Tools for Safety-Critical Systems, Distributed Languages and Algorithms.","Scott Smolka has the following research projects:
+
+The LMC Project: Logic-Programming-Based Model Checking
+High-Confidence Operating Systems (HCOS)
+Center for Cyber-Security
+The Monte Carlo Software Model Checker
+Excitable Hybrid Automata
+
+"
+Pramod Ganapathi,Research Assistant Professor,Email:†pramod.ganapathi@cs.stonybrook.edu,"Counterintuitive Mathematical Puzzles, Algorithms to Discover Algorithms, Algorithm Design Techniques, Parallel Algorithms, Cache-Efficient Algorithms","Pramod Ganapathi was previously involved in designing algorithms/frameworks such as Autogen, Autogen-Wave, and Autogen-Fractile that can automatically/semi-automatically discover correct, nontrivial, efficient algorithms for a wide class of dynamic programming problems. The algorithms take as input iterative algorithms and output nontrivial recursive divide-and-conquer algorithms. The auto-discovered recursive divide-and-conquer algorithms are efficient (highly parallel, communication-efficient, energy-efficient) and portable (cache-oblivious, processor-oblivious, cache-adaptive, processor-adaptive). The algorithmic frameworks can be easily adapted to discover algorithms for several architectures such as multicores, GPUs, and multidimensional grids/meshes of nodes.
+Pramod Ganapathi is currently involved in:
+
+understanding the patterns/templates/structures underlying algorithm design techniques,
+understanding counterintuitive mathematical puzzles, and
+designing highly efficient algorithms for matrix-based problems.
+
+"
+Joel Saltz,"Vice President for Clinical Informatics, Stony Brook Medicine",Email:†joel.saltz@stonybrookmedicine.edu,"Biomedical Informatics, Imaging Informatics, Clinical  Translational Research Informatics and High-End Computing.
+","Dr. Saltz is a pioneer in developing Digital Pathology tools, methods and algorithms with the ultimate goal of extracting and leveraging digitalized Pathology information to better predict cancer outcome and to steer cancer therapy. He is also an expert in high end computing and has developed a variety of highly cited systems software methods.
+His research in Pathology spans twenty years and consists of closely coordinated efforts in image analysis, machine learning, database design and high end computing. He has developed tools and methods† through years of funded projects supported by a wide range of institutes and agencies including NCI, NLM, NIBIB, NSF, DARPA, AFOSR, NASA, DOD and DOE. His seminal work in digital imaging laid the foundation for digital pathology as it is today.† He was the first to develop the ‚ÄúVirtual Microscope,‚Äù and pioneered developments in digital pathology whole slide image navigation, data management and computer aided classification.
+Dr. Saltz‚Äôs initial efforts included development of the first whole slide image viewer, and devising efficient methods for management, caching and supporting analytics carried out on whole slide datasets. This work became the foundation of the new field of Pathology Imaging Informatics, today investigators he mentored can be found carrying out exciting research in †institutions across the country.
+Over the years, Dr. Saltz has developed a rich set of Pathology informatics tools, methods and algorithms. For instance, he and his group have †recently developed a rich set of pipelines to compute a variety of biologically significant Pathology features, including spatial maps of tumor infiltrating lymphocytes (TILs). The quantification of TILs is well documented to have prognostic value in many contexts; understanding patient immune response to tumors is increasingly important with the advance of cancer immunotherapy. For most cancer types, Pathologists do not comment on TILs in their reports and even in cancer types where TIL comments are sometimes made, they only use high level terms such as ‚Äúbrisk‚Äù or ‚Äúsparse‚Äù. Dr. Saltz is able to† precisely quantify percent† tumor infiltrating lymphocytes and is also able to generate detailed TIL Maps.† He has used these methods to generate publicly available whole slide TIL maps and spatial statistics for 13 cancer types and 5,000 subjects ‚Äì these are available on The Cancer Imaging Archive.† He is now extending and leveraging these methods in many other studies, as well as for the NCI SEER program.
+Dr. Saltz †and collaborators have also developed a variety of machine learning methods to target analysis of whole slide images. This includes a variety of methods that target Neuroblastoma classification as well as methods that are able to leverage coarse grained whole slide training data through combining patch-level convolutional neural networks with supervised decision fusion. He achieved state-of-the-art results in predicting the subtypes of brain and lung tumors. Dr. Saltz has also developed innovative computational methods for carrying out data and computationally challenging image analysis and machine learning methods on whole slide Pathology images.† These methods are capable of taking advantage of highly scalable hybrid CPU/GPU architectures and are able to leverage capabilities provided by cloud and leadership class architectures including the Oak Ridge National Laboratory Summit platform.†
+Finally, Dr. Saltz made† foundational contributions to data science through development of innovative methods for moving computation to data, development of a very early prototype map/reduce type framework, foundational methods for runtime compiler analysis of adaptive applications and analyses of key data structures employed in the management of spatial data (Hilbert Space-Filling Curves).
+Joel Saltz received his MD and Computer Science PhD from the Medical Scientist Training Program at Duke University.† He was trained in Clinical Pathology at Johns Hopkins Medical School and served on the Johns Hopkins faculty as Professor and Director of Pathology Informatics.† He has launched new Departments of Biomedical Informatics at Stony Brook, Emory and Ohio State and has also served on the Computer Science faculty at Yale University and the University of Maryland College Park.
+Joel Saltz,† Dimitris Samaras,† Tahsin Kurc, Chao Chen and Fusheng Wang form the Digital Pathology group at Stony Brook.† This closely integrated research group targets development of AI and machine learning algorithms, numerical methods, software tools and database architectures for digital Pathology and multi-scale tissue analysis.
+1.†††††††† Saltz J, Sharma A, Iyer G, Bremer E, Wang F, Jasniewski A, DiPrima T, Almeida JS, Gao Y, Zhao T, Saltz M, Kurc T.† A Containerized Software System for Generation, Management and Exploration of Features from Whole Slide Tissue Images. Cancer Research. 2017 Nov 1; 77(21) PMID: 29092946; PMCID: PMC5987533
+2.†††††††† Cooper LA, Kong J, Gutman DA, Wang F, Gao J, Appin C, Cholleti S, Pan T, Sharma A, Scarpace L, Mikkelsen T, Kurc T, Moreno CS, Brat DJ, Saltz JH. Integrated morphologic analysis for the identification and characterization of disease subtypes. Journal of the American Medical Informatics Association: JAMIA 19, 317-323, doi:10.1136/amiajnl-2011-000700 (2012). PMID: 22278382; PMCID:PMC3277636
+3.†††††††† Saltz, J., Gupta, R., Hou, L., Kurc, T., Singh, P., Nguyen, V., Samaras, D., Shroyer, K.R., Zhao, T., Batiste, R. and Van Arnam, J., 2018. Spatial organization and molecular correlation of tumor-infiltrating lymphocytes using deep learning on pathology images. Cell reports, 23(1), p.181. DOI: 10.1016/j.celrep.2018.03.086†† PMCID: PMC5943714
+4.†††††††† Hou,L., Samaras, D., Kurc, T.,GaoY., Davis, J., Saltz,J., Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016), Las Vegas, NV
+5.†††††††† Kong, J. et al. Machine-based morphologic analysis of glioblastoma using whole-slide pathology images uncovers clinically relevant molecular correlates. PloS one 8, e81049, doi:10.1371/journal.pone.0081049 (2013).
+6.†††††††† Cooper, L. A. et al. Integrated morphologic analysis for the identification and characterization of disease subtypes. Journal of the American Medical Informatics Association : JAMIA 19, 317-323, doi:10.1136/amiajnl-2011-000700 (2012).
+7.†††††††† Cooper, L. A. et al. The tumor microenvironment strongly impacts master transcriptional regulators and gene expressiocn class of glioblastoma. The American journal of pathology 180, 2108-2119, doi:10.1016/j.ajpath.2012.01.040 (2012).
+8.†††††††† Cooper, L. A. et al. An integrative approach for in silico glioma research. IEEE transactions on bio-medical engineering 57, 2617-2621, doi:10.1109/tbme.2010.2060338 (2010).
+9.†††††††† Moon, B., Jagadish, H. V., Faloutsos, C.  Saltz, J. H. Analysis of the clustering properties of the Hilbert space-filling curve. Knowledge and Data Engineering, IEEE Transactions on 13, 124-141 (2001).
+10.††††† Kurc, T., √áataly√ºrek, √ú., Chang, C., Sussman, A.  Saltz, J. Visualization of large data sets with the active data repository. Computer Graphics and Applications, IEEE 21, 24-33 (2001).
+11.††††† Beynon, M. D. et al. Distributed processing of very large datasets with DataCutter. Parallel computing 27, 1457-1478 (2001).
+12.††††† Saltz, J. H., Mirchandaney, R.  Crowley, K. Run-time parallelization and scheduling of loops. Computers, IEEE Transactions on 40, 603-612 (1991).
+Publications
+Scholar††| ††NCBI†† | ††DBLP††| ††PubMed
+"
+Michael Ryoo,SUNY Empire Innovation Associate Professor,Email:†mryoo@cs.stonybrook.edu,Michael‚Äôs†prime research interest is in the field of deep learning and its applications to computer vision and robotics.,"Michael‚Äôs research focuses on developing convolutional neural network (CNN) models for semantic understanding of videos and its application to robot perception, robot learning, and human-robot interaction.
+"
+Paul Fodor,Associate Professor of Practice,Email:†pfodor@cs.stonybrook.edu,"Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, Knowledge Representation for the Semantic Web, Active Deductive Databases, Benchmarking for Rule-based Systems.","Paul Fodor has the following research grants:†
+
+SILK language, Vulcan Inc., 2012, 2013:http://silk.semwebcentral.org.
+Knowledge acquisition, representation and management: XSB Inc.†http://www.xsb.com†and DARPA, 2012.
+Knowledge representation, Stony Brook Department of Surgery, 2013:http://www.stonybrooksurgery.org/, CoPI with Prof. IV Ramakrishnan.
+Knowledge representation and data mining, CA Inc. and CDDA, 2013:http://www.dynamicdataanalytics.org, CoPI with Prof. Michael Kifer.
+
+"
+David Warren,Professor Emeritus,Email:†warren@cs.sunysb.edu,"Logic Programming, Database Systems, Knowledge Representation, Natural Language Processing.","For the past eighteen years his research has centered around a variety of topics in the area of logic programming. For approximately ten years his focus has been the development of the XSB tabled logic programming system.
+"
+Susan Brennan,"Professor, Psychology",Email:†susan.brennan@stonybrook.edu,"Psycholinguistics, Eyegaze and Gesture in Communication; Eye-Tracking in Language Processing; Interactive Dialogue; Spoken Dialogue Systems; Human-Computer Interaction.","Susan Brennan has the following research grants:
+
+EAGER: Modeling Distinctive Partners in Adaptive Spoken Dialog. PI on collaborative NSF proposal with Marilyn Walker of UCSD. 9/1/2010-2/1/2012.
+Using gaze cues to build partner models for collaborative behavior. Co-PI (with Gregory Zelinsky and Dimitris Samaras) on NSF SoCS interdisciplinary project in Psychology and Computer Science. 8/1/2011-7/31/2015.
+
+"
+Xianfeng Gu,SUNY Empire Innovation Professor,Email:†gu@cs.stonybrook.edu,"Computational Conformal Geometry, Computer Graphics, Visualization, Computer Vision, Geometric Modeling, Networking, Medical Imaging, Digital Geometry Processing.","David Gu‚Äôs research focuses on applying modern geometry in engineering and medical fields. With his collaborators, David systematically develops discrete theories and computational algorithms in the interdisciplinary field: Computational Conformal Geometry, and apply them for solving real problems, such as global surface parameterization in graphics, deformable shape registration in vision, manifold spline in geometric modeling, curvature convergence analysis in geometric processing, efficient routing in networking, brain mapping and virtual colonoscopy in medical imaging, and so on.
+†
+"
+Jing Chen,Research Assistant Professor,Email:†jingchen@cs.stonybrook.edu,"Main research interests: 
+Computational Game Theory, Mechanism Design, Auctions, Markets, and Healthcare.
+ 
+Also interested in:
+Algorithms and Computational Complexity.
+","Jing‚Äôs research lies at the intersection of Computer Science (especially Theory of Computation) and Economics (especially Microeconomic Theory). She is particularly interested in the design of incentive mechanisms, which leverage information from self-interested parties so as to produce desirable outcomes for the decision maker. Her work focuses on designing resilient mechanisms that work properly even in ‚Äúdirtier‚Äù or less foreseeable environments. This includes designing mechanisms that leverage the parties‚Äô imprecise or less structured information, even when they are not perfectly rational. This also includes designing mechanisms where the computation and communication cost of the involved parties are very low, mechanisms that protect the parties‚Äô privacy to the maximum extent possible, and mechanisms that work properly even when the parties can form coalitions and coordinate their strategies. Jing also works on the epistemic foundation of rationality, and the application of the theory of mechanism design to real-life scenarios, such as the design of healthcare policies. Finally, Jing is interested in all settings in Computer Science where interaction occurs among strategic parties, and the study and explanation of economic phenomenon in terms of the parties‚Äô computation power.
+"
+Nick Nikiforakis,Associate Professor,Email:†nick@cs.stonybrook.edu,"Web security and privacy, Software security, and Intrusion Detection.","My students and I work on all sorts of practical, hands-on security and privacy. The topics that I have been the most active in are:
+
+Analysis of online ecosystems
+Understanding domain squatting and DNS abuse
+Honeypot deployment
+Measurement and countermeasures against unwanted tracking
+Assessment of the security of remote servers using mostly passive techniques
+Client-side defense mechanisms against phishing and web application attacks
+
+"
+Anshul Gandhi,Associate Professor,Email:†anshul@cs.stonybrook.edu,"Anshul's high-level research interests are in applying theory to systems. In particular, his research aims to leverage mathematical tools such as {Performance Modeling,Queueing Theory,Control Theory} to analyze the behavior of systems such as {Distributed Systems,Cloud,Data Centers} and to optimize metrics of interest such as {Performance,Power,Energy}.","Current research projects include building performance models for analytics workloads (for ex: MapReduce), applying queueing theory and control theory to provide performance guarantees for cloud-deployed applications (via scale-out and scale-up in OpenStack), scaling multi-tier applications in response to unpredictable workload demand, dynamically provisioning the caching tier, analysis of multi-server systems with setup costs (provisioning/boot times), impact of scaling (size of the data center) on performance and power consumption.
+"
+Fusheng Wang,Associate Professor,Email:†fusheng.wang@stonybrook.edu,"Scalable data management systems, spatial and temporal data management and analytics, medical imaging informatics, healthcare and public health data analytics","Dr. Wang's research covers data management and biomedical informatics, and in particular, the intersection of the two fields. His research goal on data management is to address the research challenges for delivering effective, scalable and expressive software systems for managing and querying complex data at multiple dimensions, including 2D and 3D spatial and imaging data, temporal data, spatial-temporal data, and sequencing data. The research goal on biomedical informatics is to develop novel methods and software systems to optimize the extraction, management, and mining of biomedical data with much improved efficiency, accuracy and interoperability to support biomedical research and the healthcare enterprise.
+"
+Praveen Tripathi ,Research Assistant Professor,Email:†praveen@cs.stonybrook.edu,"Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.","Praveen Tripathi research focused on the problems of finding out the hot spots of activity in trajectory data, directional analysis of trajectory data and trajectory smoothing techniques and Multi-Objective Optimization (MOO) using Evolutionary Algorithms (EA). He developed some Particle Swarm Optimization (PSO) and Genetic Algorithm (GA) based MOO algorithm. The performance of proposed algorithms was compared with existing state-of-art MOO algorithms.
+"
+Dongyoon Lee,Assistant Professor,Email:†dongyoon@cs.stonybrook.edu,"Dongyoon Lee is a computer systems researcher with particular interests in building reliable, secure, and efficient software systems. He loves working on the entire computing stack, broadly spanning the areas of language runtime, operating systems, program analysis, software engineering, and hardware architecture.","The current projects include:
+
+Software Reliability
+
+Concurrency bug detection [CGO'18][EuroSys'17][ASPLOS'17][ASPLOS'16]
+Transient fault (soft error) tolerance [MICRO'16][SC'16][LCTES'15]
+
+
+Software Security
+
+Linux kernel permissions [USENIX Security'19]
+Denial of service [USENIX Security'18][FSE'18][EuroSec'17]
+Memory safety [ASPLOS'19][MICRO'18]
+
+
+Runtime Systems
+
+Edge stream processing [ATC'19]
+Distributed key value stores [SC'18]
+
+
+
+"
+Phillipa Gill,Research Assistant Professor,Email:†phillipa@cs.stonybrook.edu,"Phillipa Gill's interest is in computer networks, network measurement, inter domain routing, Internet censorship/information controls, security and reliability.","Phillipa Gill¥s research area is computer networks with a focus on network measurement and characterization. She uses novel network measurement techniques, data analysis and ideas from economics to improve security and reliability of networks. Through dialogue with relevant stakeholders on the Internet ‚Äî standardization bodies, government organizations, and network operators ‚Äî she works to have real world impact with research.
+"
+Lori Scarlatos,"Associate Professor, Technology  Society",Email:†Lori.Scarlatos@stonybrook.edu,"Educational Applications Employing Innovative Techniques Such as Tangible User Interfaces, Physical Computing, Collaborative Learning Spaces, Multiplayer Gaming, Computer Graphics, Computer-Human Interaction, Spatial Databases, and Multimedia.","In all Lori Scarlatos' various research projects, her focus has been on how computers can help people to see, understand, and learn. This includes research on educational games and simulations; human computer interaction, with an emphasis on tangible user interfaces and physical computing; computer graphics, including level-of-detail surface modeling and animation systems; information visualization; multimedia; and computer science education.
+"
+Herbert Gelernter,In Memoriam - Professor Emeritus,None,"Artificial Intelligence, Knowledge-based Heuristic Problem-solving Systems, and Scientific Applications.",None
+Ayush Kumar,Research Assistant Professor,Email:†aykumar@cs.stonybrook.edu,"Data Visualization, Machine Learning, and Computer Vision","Ayush helps users make sense of big multi-dimensional data integrating data visualization, machine learning, and computer vision techniques in assistive technology for individuals with visual impairments using Eye-Tracking and Vision Science.
+"
+Stanley Bak,Assistant Professor,Email:†stanley.bak@stonybrook.edu,"Verification of Neural Networks, Cyber-Physical Systems, Formal Analysis of Hybrid Systems ","Stanley Bak is a computer scientist investigating the verification of autonomy, cyber-physical systems, and neural networks. He strives to develop practical formal methods that are both scalable and useful, which demands developing new theory, programming efficient tools and building experimental systems.
+"
+Omkant Pandey,Assistant Professor,Email:†omkant@cs.stonybrook.edu,"Cryptography (Applied and Theory), Security, Privacy",None
+Yuanyuan Yang,"Distinguished Professor, Electrical and Computer Engineering",Email:† yuanyuan.yang@stonybrook.edu,"Wireless and Mobile Networks, Optical Networks, High Speed Networks, Interconnection Networks, Multicast Communication, Parallel and Distributed Computing and Systems","Yuanyuan Yang is affiliated with†High Performance Computing and Networking Research Laboratory†at Stony Brook, which conducts cutting-edge research related to wireless/mobile networks, optical networks, high-speed networks, interconnection networks and multicast communication.
+"
+Rong Zhao,"Director, Software Systems Division",Email:†rzhao@cs.stonybrook.edu,"Information Retrieval, Data Mining, Machine Learning, Medical Informatics, Software Engineering, and User Interfaces.","Rong Zhao has the following projects:
+
+Advanced Documentation of Clinical Encounters and Context-Aware Presentation of Electronic Medical Records
+Computer-Aided Diagnosis System for Fast, Accurate and Remote Evaluation of Acute Chest Pain
+Evidence-Based Utilization Management of New York State Medicaid Program
+A Software System for Functional Assessment and Outcome Prediction for Patient Discharge Planning
+Intelligent Robotic System for Healthy Independent Living
+A Health Monitoring System for Chronically Ill Patients
+Big Data Analytics for Health Information Exchange and Health Home Development
+Analytic Engine and Recommender System for Customer Relationship Management
+Semantic Methods for Dynamic Business Process Management
+
+"
+Philip Lewis,Professor Emeritus,Email:†pml@cs.sunysb.edu,"Databases, Concurrency, Distributed Systems.","N/A
+"
+Xiaojun Bi,Assistant Professor,Email:†xiaojun@cs.stonybrook.edu,"Human Computer Interaction, Mobile Computing, Interactive Systems, Interaction Techniques, Theoretical Issues of UI Design.","Xiaojun Bi research lies in the general area of Human Computer Interaction, with a primary focus on building interactive systems, designing interaction techniques, and studying fundamental issues of user interface design on mobile devices. One of his main research directions is improving text entry in mobile computing. He has contributed a number of innovations in this area, including bimanual gesture typing, optimizing the keyboard decoding algorithm for both correction and completion abilities, optimizing keyboard layouts, personalizing language models, and building automatic keyboard evaluation systems. His other main research is in the design of new interactive systems and input techniques with emerging input modalities. Some major projects include Magic Desk (a desktop computing environment enhanced with multi-touch capabilities), Gather Reader (an e-reader with pen and multi-touch input), WallTop (a multi-window based, large display window management system prototype), and pen rolling  tilting interaction techniques. Establishing robust laws and regularities is fundamental to a research field. This is increasingly important in HCI as new input modalities are emerging. His research in this area includes deriving the Finger-Fitts Law (i.e., FFitts Law) to specify the speed-accuracy tradeoff of touch input, and deriving the Bayesian Touch Criterion as a principled approach of ranking target likelihood in target acquisition tasks.
+"
+Rob Johnson,Research Assistant Professor,Email:†rob@cs.stonybrook.edu,"Software Security, System and Network Security, Cryptography, Digital Rights Management, Operating Systems, Networks, Algorithm Design and Analysis","Rob Johnson performs research on software security, system and network security, cryptography, digital rights management, operating systems, networks, algorithm design and analysis.
+"
+YoungMin Kwon,Research Associate Professor,Email:†youngmin.kwon@sunykorea.ac.kr,"Cyber-Physical Systems, Internet of Things, Programming Languages, Distributed Systems, Quantitative Model Checking.","YoungMin Kwon's research interests are in developing programming tools and runtime environments for Cyber-Physical Systems (CPS), providing middleware services for CPS, and designing tools to analyze and verify CPS.
+Specifically, he has been developing virtual uniform computing environments, called ActorNet comprised of an actor language interpreter, a library of useful services, and message based communication network services. He is also interested in developing middleware services like localization services for networked embedded systems. Developing quantitative temporal logics and implementing their model checking tools have also been his active research area. Those tools can not only analyze and verify physical and hybrid systems, but can also control the systems to achieve complex goals.
+"
+Arthur Lee,Research Professor,Email:†alee@sunykorea.ac.kr,"Programming Languages, Database Systems, Distributed Systems,   Data Science, Big Data.","Arthur Lee's research interests are in programming languages,†database systems, distributed systems, and data science. †He is† particularly interested in object-oriented and dynamic languages,† main-memory database management systems dealing with both row-and column-stores conscious of big data support in a distributed†environment, and supporting data science needs for data†management.
+"
+Alexander Spirov,Research Assistant Professor,Email:†alexander.spirov@cewit.stonybrook.edu,"Bioinformatics, Data Mining, Computational Biology.","N/A
+"
+Dominik Kempa,Assistant Professor,Email:†kempa@cs.stonybrook.edu," String algorithms, data compression, compressed data structures, bioinformatics, parallel and external-memory algorithms. ","Dominik Kempa's research focuses on algorithms and data structures for strings, text indexing, data compression, and bioinformatics. His research involves both theoretical aspects as well as algorithm implementation. Driven by the rapid progress in the field of high-throughput DNA sequencing and the emerging notion of personalized medicine, he is currently focusing on the field of compressed indexing, which is concerned with the design and construction of data structures to store massive string collections in space close to the size of compressed data, while simultaneously providing searching functionality (such as pattern matching) on the original uncompressed data. This allows executing algorithms directly on the compressed input.
+"
+Yevgen Borodin,Research Assistant Professor,Email:†borodin@cs.stonybrook.edu,"Web Accessibility, Web Content Analysis, Crowdsourcing, Web Automation, Human Computer Interaction Natural Language Processing, Information Retrieval, Data Mining, Applications of Machine Learning","Yevgen Borodin's current research works include:
+
+Context analysis in relevant information searching
+Context in process models for non-visual online transactions
+Personalized lifelong learning for non-visual online transactions
+Web page segmentation, partitioning, summarization, and labeling
+Improving accessibility of dynamic content in Web pages
+Navigation strategies in Non-Visual browsing
+HTML form analysis and non-visual filling
+VoiceXML dialog generation and dialog selection
+
+"
+Zhaozheng Yin,SUNY Empire Innovation Associate Professor,Email:†zyin@cs.stonybrook.edu,"Biomedical Image Analysis, Computer Vision, Machine Learning, Cyber-Physical Systems, Human-Robot Collaboration","Our current research projects include:
+NRI: INT: COLLAB: Intelligent Human-Robot Collaboration for Smart Factory. National Science Foundation.
+CPS: Synergy: Collaborative Research: Cyber-Physical Sensing, Modeling, and Control with Augmented Reality for Smart Manufacturing Workforce Training and Operations Management. National Science Foundation.
+CAREER: Microscopy Image Analysis to Aid Biological Discovery: Optics, Algorithms and Community. National Science Foundation.
+Electronic Health Record and Mobile Health.
+Open-set research idea exploration supported from various resources.
+"
+Wei Zhu,"Professor, Applied Mathematics and Statistics",Email:†wei.zhu@stonybrook.edu,"Biostatistician, Brain Image Analysis, Design and Analysis of Clinical Trials and Other Biomedical Studies, Genetics Modeling.","Wei Zhu's research projects include:
+
+Bioinformatics
+Brain Image Analysis
+Climate Modeling
+Experimental Design
+Structural Equation Modeling (SEM)
+
+"
+Minh Hoai Nguyen,Associate Professor,Email:†minhhoai@cs.stonybrook.edu,Computer Vision; Machine Learning; Human Activity Recognition; Semantic Video Analysis,"Minh Hoai Nguyen's research†interests are in computer vision, machine learning, and time series analysis. His recent research focuses on creating algorithms that recognize human actions, gestures, and expressions in video. Such successful algorithms will be widely useful, e.g., to improve video surveillance systems, to advance human-computer interaction, and to assist medical diagnosis of behavioral disorders. Minh Hoai Nguyen's†research extends to three areas that support it: computer vision, time series analysis, and machine learning. His work studies video data, and computer vision addresses video representation and processing. Time series analysis studies how human actions, gestures, and expression can be modeled, which is the critical foundation to detect and recognize them. Machine learning is a core component of his research because visual interpretation algorithms are so complex that they need to be trained rather than hand-designed.†
+†
+"
+Allen Tannenbaum,Distinguished Professor,Email:†arobertan@cs.stonybrook.edu,"Computational computer vision, image processing, medical imaging, computer graphics, control, mathematical systems theory, control of semiconductor fabrication processes, robotics, operator theory, functional analysis, algebraic geometry, dierential geometry, invariant theory, and partial differential equations.","Allen Tannenbaum research focuses on Medical image analysis; computer vision; image processing; systems and control; controlled active vision; mathematical systems theory; bioinformatics; computer graphics.
+"
+Prateek Prasanna,"Assistant Professor,  Biomedical Informatics",Email:†Prateek.Prasanna@stonybrook.edu,Intersection of medical image analysis and machine learning,"Building clinically translatable medical image analytics and machine learning tools for enabling better treatment decisions and evaluating response to different therapies.
+Application areas: (a) Decision support for early detection and diagnosis of oncologic and non-oncologic diseases via machine learning approaches, (b) Targeting therapeutic procedures and monitoring response (e.g. guiding immunotherapy in lung cancer), and (c) Characterizing pathologic processes using multiscale data integration (e.g. radiology, pathology, genomics).
+"
+Jihoon Ryoo,Research Assistant Professor,Email:†jiryoo@cs.stonybrook.edu,"Wireless Networking, Mobile Computing, IoT","Jihoon Ryoo‚Äôs work spans in the area of wireless networking and mobile systems:
+‚ÄÉ- Gaze assisted network resource optimization
+‚ÄÉ- Backscatter communication and activity monitoring
+‚ÄÉ- Saliency based 360 video buffering
+"
+Martin Radfar,Research Assistant Professor,Email:†radfar@cs.stonybrook.edu,"Machine learning, signal processing, bioinformatics",None
+Niranjan Balasubramanian,Assistant Professor,Email:†niranjan@cs.stonybrook.edu,Natural Language Processing (NLP) and information retrieval.,"Niranjan†Balasubramanian's research is†motivated by the challenge of building systems that can extract, understand, and reason with information present in natural language texts. His research interests are in two broad areas:†NLP†and†information retrieval. He has worked on different projects in areas like††Question Answering at a 4th Grade Level,†Event Schema Generation from news stories, Machine Learning for Information Retrieval, Energy-efficient Mobile Search, and Automatic Wikipedia Pages.
+"
+Robert Patro,Research Assistant Professor,Email:†rob.patro@cs.stonybrook.edu,"Scalable Algorithms for High-throughput Genomic Analysis, Algorithms for Inferring and Comparing Biological Networks, Network Evolution  Systems Biology","Rob†Patro's research lies in scalable algorithms for high-throughput genomic analysis, algorithms for inferring  comparing biological networks, and network Evolution  Systems Biology.
+"
+Ker-I Ko,In Memoriam - Professor Emeritus,None,"Computational Complexity, Theory of Computation, and Computational Learning Theory.","N/A
+"
+Steven Skiena,"Distinguished Teaching Professor; SUNY Empire Innovation Professor and Director, AI Institute",Email:†skiena@cs.stonybrook.edu,"Algorithms, Computational Biology, Large-scale Text Analytics and Sentiment Analysis, Social Trends Analysis, Combinatorial Computing Environments, and Combinatorial Algorithms and Data Structures.","Steven Skiena's Data Science Laboratory studies large-scale text analytics and sentiment analysis. General and project information can be found†here.
+"
+C.R. Ramakrishnan,Professor and Graduate Program Director,Email:†cram@cs.stonybrook.edu,"Logic Programming, Programming Languages, Verification.","C.R. Ramakrishnan's areas of research are logic programming and formal methods. He has worked, and continue to work, on the analysis of temporal properties of concurrent systems by encoding the system semantics as logical inference rules, and formulating the analysis problem as one of performing inference over these rules. He works on various aspects of inference in logic programs, ranging from incremental evaluation to data structures and constraints. He also works on specification languages of concurrent systems, especially those that deal with mobile systems, and on model checking of such systems. His work also involves the application of model checking and program analysis techniques to computer security. His research has been consistently funded by grants from the NSF and the ONR.
+At present he is working on systems that combine statistical and logical knowledge: ways to represent such knowledge, perform inference over such knowledge and learn aspects of such knowledge. An application of such a combined statistical/logical system is the verification of probabilistic concurrent systems.
+"
+Shuai Mu,Assistant Professor,Email:†shuai@cs.stonybrook.edu,Distributed Systems,"Shuai's research focuses on distributed systems, particularly on concurrency issues in large-scale storage systems. His work aims to improve the concurrency in distributed storage systems without sacrificing any correctness guarantees such as serializability and external consistency. His study leads to better designs in distributed/multicore database systems, hardware/software transactional memory systems, wide-area replication systems.
+"
+Adam C. Siepel,Adjunct Associate Professor,Email:†asiepel@cshl.edu,"Comparative Genomics, Molecular Evolution, Population Genetics, Gene Regulation, Algorithms, Bayesian Statistics, Probabilistic Graphical Models","He works on problems at the intersection of computer science, statistics, evolutionary biology, and genomics. His research has touched on a diverse collection of topics, including the identification of recombinant strains of HIV, the discovery of human genes, and the estimation of the times in early human history when major population groups first diverged.
+"
+Xiangmin Jiao,"Associate Professor, Applied Mathematics and Statistics ",Email:†xiangmin.jiao@stonybrook.edu,"High-performance Geometric and Numerical Computing in Science and Engineering, Efficient and Robust Algorithms, High-performance Software Implementations for Applications Involving Heterogeneous Physical Systems.","Xiangmin Jiao's research interests are in high-performance geometric and numerical computing in science and engineering. His work focuses on developing efficient and robust algorithms and high-performance software implementations for dynamic surfaces, mesh optimization, applied computational and differential geometry, and multiphysics coupling, for applications involving heterogeneous physical systems, such as simulations in computational fluid dynamics, biomedical engineering, climate modeling, and geometric modeling. Visit hisNumGeom Group†page for more information.
+"
+Shan Lin,"Associate Professor, Electrical and Computer Engineering",Email:†Shan.X.Lin@stonybrook.edu,"Shan Lin is broadly interested in computer networks, distributed computing, networked information systems, sensor systems, and robotics.","Shan Lin's research is in the area of networked systems, with an emphasis on feedback control based design for cyber physical systems and sensor systems.†Shan Lin works on wireless network protocols, interoperable medical devices, smart transportation systems, and intelligent sensing systems.†
+"
+Michalis Polychronakis,Associate Professor,Email:†mikepo@cs.stonybrook.edu,"Network and systems security, network monitoring and measurement, online privacy.","Michalis' research aims to improve the security of computer systems and†networks, build robust defenses against malicious software and online†threats, reinforce the privacy of our online interactions, and enhance our†understanding of the internet ecosystem and its darker sides.
+"
+Margaret Schedel,"Associate Professor, Music",Email:†margaret.schedel@stonybrook.edu,Margaret Anne Schedel is a composer and cellist specializing in the creation and performance of ferociously interactive media. ,None
+Ritwik Banerjee,Research Assistant Professor,Email:†rbanerjee@cs.stonybrook.edu,"Natural Language Processing (NLP), Computational Linguistics, Information Extraction","Ritwik's area of research is statistical natural language processing and computational linguistics, with focus on linguistic semantics and learning knowledge that is implicit in natural language data. His work spans multiple domains within NLP, such as stylometric analysis, relation extraction and keystroke analysis for detecting deceptive author intent.
+"
+Hong Qin,Professor,Email:†qin@cs.sunysb.edu,"Computer Graphics, Geometric and Physics-Based Modeling, Computer Aided Design, Computer Integrated Manufacturing, Computer Aided Geometric Design, Virtual Environments, Virtual Engineering, Animation, Simulation, and Robotics.","
+Multivariate Simplex Splines for Data Modeling and Visualization
+
+Project Abstract and Description (published at NSF website)
+Project Publications
+Project Participants (Hong Qin,†Xin Li,†Sen Wang,†Hongyu Wang,†Kexiang Wang)
+
+ITR: Intelligent Deformable Models
+
+Project Abstract and Description†(published at NSF website)
+Project Publications
+
+
+"
+Byungkon Kang,Research Assistant Professor,None,"Machine learning, Data mining, Natural language processing","Byungkon Kang's research focuses on developing and modeling algorithms for a variety of machine learning problems.
+In particular, his current domain of interest is learning representations (in the form of vector embedding) for various objects such as natural languages, images, and bio-medical data.
+Another branch of research is about deep generative models, where he studies and exploits neural network architectures that efficiently model joint probability distributions of data.
+In addition to these current topics, his past research interests include reinforcement learning and stochastic planning.
+"
+Esther Arkin,"Professor, Undergraduate Program Director, Applied Mathematics and Statistics",Email:†esther.arkin@stonybrook.edu,"Combinatorial Optimization, Computational Geometry, Robotics, Scheduling, Design and Analysis of Algorithms.","N/A
+"
+Richard McKenna,Lecturer,Email:†richard@cs.stonybrook.edu,"Computer Science Education, Computer Game Programming, Internet Commerce Programming.","N/A
+"
+Anita Wasilewska,Associate Professor,Email:†anita@cs.stonybrook.edu,"Foundations of Data Mining Data Mining and Knowledge Discovery, Biology and Bioinformatics, Applications for the Automated Theorem Provers, Inductive Learning Systems, Rough Sets, Generalized Fuzzy and Rough sets, Dealing with Uncertain Information, Automated Theorem Proving, Formal Languages, General models for computing machines, Automated Theorem Proving in non-classical logics, and Experimental Education.","N/A
+"
+Jack Heller,In Memoriam - Professor Emeritus,Email:†jh@cs.stonybrook.edu,"Database Systems, Office Automation, and Visualization.","N/A
+"
+Larry Wittie,In Memoriam - Professor Emeritus,Email:†lw@ic.sunysb.edu,"Massively Parallel Computation, Computer Architecture, Large-Scale Simulation of Memory and Perception in Mammalian Brains.","Larry Wittie leads the development of the Brain Organization Simulation System (BOSS) consisting of INIT, RUNSIM, and VIZ. BOSS can create and run brain structure learning models consisting of networks of up to hundreds of millions of neuronal elements with tens of billions of synaptic connections that pass electro-ionic signals.
+"
+Aruna Balasubramanian,Associate Professor,Email:†arunab@cs.stonybrook.edu,"Systems, Mobile Computing, Web performance, Networking.
+","Aruna†Balasubramanian's†work incorporates elements of both networking and systems in the context of mobile devices.†The goal of her work is to design mobile protocols/systems that radically improve performance. Current mobile system designs make assumptions, that while true for the wired environment, are not valid for the mobile environment. Instead, she wants to re-architect mobile systems to better support current and next-generation applications. Dr.†Balasubramanian's recent projects include MobileHub (reduces energy consumption of always-on sensing applications by leveraging heterogenous hardware), WProf (a tool that identifies the bottlenecks during page load), and FindAll (makes mobile applications less reliant on the cloud by building a†local search engine†on phones, that lets users search locally).
+"
+Christopher Kane,Research Assistant Professor,Email:†ckane@cs.stonybrook.edu,"Programming Languages, Security, Distributed Algorithms",None
+Rezaul Chowdhury,Associate Professor,Email:†rezaul@cs.stonybrook.edu,"Algorithms and Data Structures for Efficient Serial and Parallel Computations, Cache- and I/O-efficient Computing, Computational Biology and Bioinformatics, Experimental Algorithmics.","Rezaul Chowdhury is currently involved in an NSF-funded project with Charles Leiserson and Steven Johnson of MIT on building a stencil computation compiler called ""Pochoir"". A stencil defines the value of a grid point in a d-dimensional spatial grid at time t as a function of neighboring grid points at recent times before t. Stencil computations are conceptually simple to implement using nested loops, but looping implementations suffer from poor cache performance on multicore processors. Cache-efficient divide-and-conquer stencil algorithms exist, but most programmers find them difficult to implement. Moreover, open problems remain in adapting these algorithms to realistic applications that lack the perfect regularity of simple examples. This research aims to develop a language embedded in C++ that can express stencil computations concisely and can be compiled automatically into highly efficient algorithmic code that will make good use of the memory hierarchy and processor pipelines endemic to multicore processors and will run fast on a diverse set of hardware platforms. A wide variety of stencil-based applications ‚Äî ranging across physics, biology, chemistry, energy, climate, mechanical and electrical engineering, finance, and other areas ‚Äî will become easier to develop and maintain. Some of his other projects focus on efficient resource-oblivious algorithms, fast energetics computation, and protein-protein docking.
+"
+R. Sekar,SUNY Empire Innovation Professor and Associate Chair,Email:†sekar@cs.stonybrook.edu,"Computer and Network Security, Software/Distributed Systems, Programming Languages, Software Engineering.","R. Sekar's main research focus is on software and systems security. It is driven by practical problems, and emphasizes building real systems. It draws on principles and techniques from programming languages and compilers, operating systems, algorithms, networks, and artificial intelligence to address problems such as:
+
+Software vulnerability mitigation (buffer overflows, SQL injection, XSS, ...)
+Malware and untrusted code defense
+High-performance intrusion detection (network and host-based)
+Attack isolation and recovery
+Self-healing and self-regenerative systems
+Monitoring and management of distributed systems
+
+"
+Arthur Bernstein,Professor Emeritus,Email:†art1427@optonline.net,"Transaction Processing, Concurrent Programming, Distributed Databases, and Web Services.","Arthur Bernstein's research lies in the area of transacton processing and workflows. He is currently involved in the following projects:
+
+Automatic Generation of Workflows
+Transaction Processing Performance Tool
+
+"
+Jennifer Wong-Ma,Research Assistant Professor,Email:†jwong@cs.stonybrook.edu,"Wireless Distributed Embedded Systems, Sensor Prediction for Energy Efficiency, and Statistical Techniques for Optimizing Designs in the Presence of Manufacturing Variability.","Jennifer Wong's Current Projects:
+
+Low-Power Wireless Radio Analysis, Modeling,  Simulation
+Force-directed Models of Low Power Wireless Ad-hoc Systems with Lossy Links
+Statistical Wireless Link Generators
+
+"
+Romeil Singh Sandhu,"Assistant Professor, Bioinformatics and Computer Science",Email:†romeil.sandhu@stonybrook.edu,"Computer Vision, Machine Learning, Network Science, Medical Imaging, Systems Biology","His research focuses on topics in network science, graph theory, computer vision, machine learning, systems biology, and shape analysis with a particular underlying emphasis on utilizing the confluence of geometry, statistics, and controls to accomplish such tasks.†
+"
+Hussein Badr,Associate Professor Emeritus,Email:†badr@cs.stonybrook.edu,"Computer communication networks and protocols, performance evaluation, modeling and analysis.","N/A
+"
+Amir Rahmati,Assistant Professor,Email:†amir.rahmati@stonybrook.edu,"System Security, Privacy, Internet of Things, Cyber-Physical Systems, Adversarial Machine Learning, Emerging Systems, Hardware Security
+  ",None
+Wei Xu,Research Assistant Professor,Email:†wxu@cs.stonybrook.edu,"Big Data, Visual Analytics, Visualization, Machine Learning, High Performance Computing, X-ray imaging.","Wei Xu‚Äôs current research is on visual analytics, visualization and deep structured learning for extreme-scale data analysis. She is also working on high performance computing on GPUs and Intel Xeon Phi coprocessors for multi-modal X-ray imaging problems.
+"
+Joseph S.B. Mitchell,"Distinguished Professor, Applied Mathematics and Statistics ",Email:†joseph.mitchell@stonybrook.edu,"Computational geometry; algorithms; optimization; applications in transportation, robotics, sensor networks, geometric modeling, visualization.
+","
+Computational Geometry
+Algorithms and Data Structures
+Optimization, Operations Research
+Graphics and Visualization
+Computer-Aided (Geometric) Design and Manufacturing
+
+"
+David Ferguson,In Memoriam - Distinguished Service Professor and Provost's Scholar,None,"Quantitative Reasoning, Problem Solving, Use and Assessment of Educational Technologies, Technology in Mathematics, Science and Engineering Education, and Decision Making.","N/A
+"
+David Smith,In Memoriam - Professor Emeritus,None,"Hardware Description Languages and Synthesis, VLSI Design Tools, and Experimental Chip Architectures.","N/A
+"
+Himanshu Gupta,Professor,Email:†hgupta@cs.sunysb.edu,"Wireless networks, free-space optical communications, algorithms.","Himanshu Gupta's research activities focus on theoretical issues in wireless networking. His recent research interests lie in free-space optical communications and spectrum management.
+"
+Peng Zhang,SUNY Empire Innovation Professor ,Email:†P.Zhang@stonybrook.edu,"Power and Energy, Quantum Engineered Resilient Grids,  AI-Enabled Smart Grids, Formal Methods  Reachability, Cybersecurity, Stability, Microgrids  Networked Microgrids, Software-Defined Smart Grids, Renewable Energy Integration.","Electric power grids are critical infrastructures for modern society. Zhang's research focuses on cyber-physical grid resilience including monitoring, detecting and mitigating cyber attacks, physical disturbances and extreme events on microgrids  networked microgrids, urban distribution grids, substations and bulk power networks. His research program is dedicated to enabling innovations for different layers of grid infrastructures that will transform today's power grids into tomorrow's autonomic networks and flexible services towards self-configuration, self-healing, self-optimization, and self-protection against grid changes, renewable power injections, faults, disastrous events and cyber-attacks.
+"
+Robert F. Kelly,None,Email:†robkelly@cs.stonybrook.edu,"Political Informatics, Software Engineering, Parallel Programming.","Research deals with  computational problems in political informatics, specifically systems for the  analysis of issues related to congressional redistricting. Research is multidisciplinary, involving topics in computer science, applied mathematics, and political science. Student involvement in research is enabled through the Stony  Brook University VIP initiative (PoliTech program) as well as graduate and undergraduate research in  Computer Science. At the center of the research is the Automated Redistricting  System (ARS), a system for the rapid generation of statewide  congressional districts in accordance with constitutional and court-ordered  guidelines, as well as user-defined preferences. ARS incorporates measures of  the quality of a districting plan into a mathematical function, and then attempts to optimize it. Once the user selects a state, she can specify the  importance of various measures such as compactness, equal population, and  political fairness, along with other parameters such as the desired number of  congressional districts. The system includes a database containing election district geographic data, election result data, and statewide demographic data  for many of the states subject to redistricting following the 2020 Census.  Individual research topics include:
+
+Algorithms for graph partitioning;
+Efficient algorithms for the measurement of  geographic compactness;
+Measures of political fairness, including  measures of gerrymandering;
+Techniques for the visualization of  multi-parameter data including racial, economic, and voter preferences;
+Probabilistic analysis specific redistricting  plans;
+Parallel software for the implementation of  compactness, political fairness, and graph partitioning algorithms; and
+Legislation for redistricting requirements, voting rights, and election data quality.
+
+"
+Dimitris Samaras,SUNY Empire Innovation Professor,Email:†samaras@cs.sunysb.edu,Computer vision; machine learning; computational behavioral sciences; computer graphics; medical imaging; computational photography.,"Dimitris Samaras's research up to now has focused on explaining visual data for Computer Vision, Computer Graphics and Medical Image Analysis, through the appropriate physical and statistical models. A central interest is in modeling the interaction of 3D shape and illumination, (a major source of variability in images) for applications such as shape and motion estimation, object recognition and augmented reality. Further interest in 3D shape deformation is fueled by the availability of image and range data that allows statistical modeling of non-rigid motion. The construction of such statistical models leads to the problem of accurate matching of 3D data. A natural application area for all the above questions is the field of human modeling and especially faces. We have been focusing on topics such as facial appearance under variable illumination and facial expression modeling for biometrics and human computer interaction. My general interest in human modeling has led to exciting collaborations with psychologists who collect visual data about human behavior through multiple modalities such as eye-trackers and fMRI bran imaging. Thus based on recent neuropsychological findings we are exploring the application of machine learning techniques to the analysis of brain images. Current sources of funding include NSF, NIH (NIDA), DoE and DoJ.
+"
+Klaus Mueller,Professor,Email:†mueller@cs.stonybrook.edu,"Visualization, Visual Analytics, Data Science, Big Data, Virtual  Augmented Reality, Medical Imaging, High Performance Computing on GPUs.","Klaus Mueller's research and publications group into these general areas:
+
+Medical imaging
+Volume visualization
+Filters and grids
+Computer graphics: color, texture, details, points
+Simulation of natural phenomena and urban security applications
+General purpose computing on programmable graphics hardware (GPGPU)
+Visual analytics, visual data mining and information visualization
+Face recognition
+
+"
+Arie Kaufman,Distinguished Professor and CEWIT Chief Scientist,Email:† ari@cs.stonybrook.edu,"Computer Graphics, Visualization, Virtual Reality, User Interfaces, Multimedia, Computer Architecture","Kaufman has conducted research for over 40 years in visualization, graphics, virtual reality, user interfaces, multimedia, and their applications, especially in biomedicine. He has published extensively totaling in excess of 300 refereed papers, books, and book chapters, more than 250 conference presentations and non-refereed manuscripts, and has been awarded/filed more than 40 patents, most of which have been licensed. He has been a principal/co-principal investigator on more than 100 research grants. His work has been featured in numerous media communications, including Science, New York Times, U.S. News  World Report, Business Week, Wall Street Journal, Saturday Evening Post, PC Week, Good Morning America, Fox TV and Newsday.
+Kaufman has made significant research breakthroughs and cutting-edge inventions, including:
+
+Developing 3D Virtual Colonoscopy, a technique for colon cancer screening that has been licensed, FDA approved, commercialized, and has already saved thousands of lives.
+Developing the Cube hardware architectures for real-time volume rendering, which were licensed and commercialized as the VolumePro PC Board, enabling 3D medical imaging on PCs.
+Developing real-time simulation and visualization of flow, especially for airborne dispersion in rural and urban environments, supporting battlefield training and homeland security. Pioneering the use of Graphics Processing Units (GPUs) and GPU-clusters, especially for accelerating simulation and visualization of flow.
+Developing the Reality Deck, a 1.5 Billion-pixel immersive display which is the largest resolution immersive visualization facility ever built, enabling visual analytics of big data.
+Leading and pioneering the area and technologies of Volume Visualization, enabling the interactive display of 3D data. Compiling the first manuscript on Volume Visualization (1991).
+Developing comprehensive volume visualization software, VolVis, with an installed base of over 5,000. It has been licensed and formed the basis for many of the state-of-the-art volume visualization software.
+Pioneering the area and technologies of Volume Graphics, which were licensed and used in one of the first flight simulators.
+
+"
+Zhenhua Liu,"Assistant Professor, Applied Mathematics and Statistics",Email:†zhenhua.liu@stonybrook.edu,"Online and Distributed Algorithm Design, Convex Optimization, Game Theory, Renewable Energy Integration, Cloud Computing, Computer Networks, Big Data","Zhenhua Liu's current research interests include sustainable computing and networking systems, cloud platforms for big data applications and energy management, and renewable energy integration. He develops and applies techniques from distributed system, nonlinear optimization, game theory, and online algorithm for these systems. In particular, his research combines rigorous analysis and system design, and goes from theory, to prototype, and eventually to industry to make real impacts. For more information, please refer to†http://www.ams.stonybrook.edu/~zhliu/.
+"
+Chuan Huang,"Assistant Professor, Radiology, Psychiatry",Email:†chuan.huang@stonybrook.edu,"Medical Image Reconstruction/Analysis, Quantitative MRI, Simultaneous PET-MRI, Rapid MRI, Objective Assessment of Image Quality, Mathematical Modeling","Chuan Huang's research interests includes Simultaneous PET/MRI, Medical Imaging Reconstruction/Analysis, Quantitative Methods for Medical Imaging, Rapid MRI. His PhD research focused on image analysis/reconstruction and parametric MRI. He developed a radial FSE technique to obtain the T2 map for the entire brain within 2 minutes of acquisition time. In 2012, Dr. Huang extended his research interest into simultaneous PET/MRI. Dr. Huang is the first author of the first paper on MR microcoil based PET motion correction for head; this work was featured in a press release of the 2013 annual meeting of SNMMI. Dr. Huang had been leading the MR effort of the simultaneous PET/MRI projects during his stay in the Center of Advanced Medical Imaging Sciences at Massachusetts General Hospital.†
+"
+Y. Annie Liu,Professor,Email:†liu@cs.stonybrook.edu,"Languages, Algorithms, Program Design and Optimizations, Program Analysis and Transformations, Intelligent Systems, Distributed Systems, and Security.
+","Annie Liu's Design and Analysis Research Laboratory has projects in†modeling and specification, analysis and verification, design and†optimization, code generation, and testing.† These projects are for†optimizing compilers, interactive environments, real-time and embedded†systems, database systems, semantic Web, distributed systems, big data†analysis, security, and more.
+"
+Sangjin Hong,"Professor, Electrical and Computer Engineering",Email:†sangjin.hong@stonybrook.edu,"Low Power and Low Complexity VLSI Design for Multimedia Wireless Communications and Digital Signal Processing Systems, Reconfigurable SoC Design and Optimization, VLSI Signal Processing.","Sangjin Hong pursues his research in a range of topics related to low-power VLSI design of multimedia wireless communications and digital signal processing systems, including mixed-signal SOC design methodology and optimization, VLSI signal processing, digital and analog circuit design, and reconfigurable embedded systems design. His research is sponsored by the National Science Foundation, the NY State Microelectronics Design Center, the NY State SensorCAT, Symbol Technology, and Microsoft Corporation, Electronics and Telecommunications Research Institute (ETRI), Korea Ministry of Knowledge and Economy, and the Korea Ministry of Information and Communications.
+"
+I.V. Ramakrishnan,Professor and Associate Dean for Strategic Initiatives,Email:†ram@cs.stonybrook.edu,"Artificial Intelligence, Computational Logic, Machine Learning/Computational Logic Combination, Information Retrieval, Computer Accessibility","N/A
+"
+Fan Ye,"Associate Professor, Electrical and Computer Engineering",Email:†fan.ye@stonybrook.edu,"Mobile and embedded sensing systems and applications, location based services, edge computing, Internet-of-Things, sensor networks, energy and power efficiency.","Fan Ye's research interests are in mobile and embedded sensing systems and applications (e.g., location based services, healthcare), edge computing, Internet-of-Things, sensor networks, energy and power efficiency. He has over 90 referred publications which in total have been cited more than†10000 times†according to Google Scholar, and 26 granted/pending multi-national/US patents/applications.
+"
+Erez Zadok,Professor and Graduate Academic Adviser,Email:†ezk@cs.stonybrook.edu,"File Systems and Storage, Operating Systems, Energy Efficiency, Performance and Benchmarking, Security, Networking, Big Data, Distributed Systems, and Data Centers.","Erez Zadok leads the Filesystems and Storage Lab (FSL) at the CS department. The FSL's Web site can be found†here.
+"
+Theo Pavlidis,Distinguished Professor Emeritus,Email:†theopav@gmail.com,"Image Processing, Machine Vision, Computer Graphics, Window Systems.","For the last 40 years Theo Pavlidis has been conducting research, teaching, and consulting in the areas of Image Analysis, Pattern Recognition, Computer Graphics, and Software issues related to these fields. (Before that he had worked in Control Theory and its applications in Biological systems.)
+"
+Xin Wang,"Associate Professor, Electrical and Computer Engineering",Email:†x.wang@stonybrook.edu,"Mobile and Ubiquitous Computing, Wireless Communications and Network Systems, Networked Sensing and Fusion, Networked Autonomous Systems, Detection and Estimation.","Xin Wang is the faculty member of Wireless and Networking Systems Lab (WINS Lab). WINS group conducts research in the areas of wireless networking, mobile computing as well as network sensing and detection. Their vision is of network systems that provide robust and seamless services to the end users, and wireless network infrastructure that can provide significantly higher capacity, scalability and reliability. The goals are to do creative and innovative research, and to solve problems that impact the real world. The general topics they are working on (not limited to) are:
+
+Wireless communications and networking
+Networked sensing and detection, statistical signal processing
+Networked autonomous systems
+Cloud computing, ubiquitous and distributed computing
+Cross layer optimization
+Cognitive radio networks
+Application and service support over wireless networks
+Network and mobility management, QoS, signaling and control
+Network security and economics
+
+"
+Joseph Marino,Postdoctoral Research Fellow,Email:†jmarino@cs.stonybrook.edu,"Visualization, Computer Graphics, Medical Imaging","Joseph Marino's research projects focus on visualization and computer graphics algorithms for medical imaging applications, including visualization and analysis for pancreatic and prostate cancer screening, as well as enhancements for virtual colonoscopy.
+"
+Seung Soo Park,Research Professor,Email:†sspark@ewha.ac.kr,"Artificial Intelligence, Knowledge-base System, Common Sense Reasoning, Intelligent Agent Systems, Data Mining, Bio Informatics","Seung Soo Park‚Äôs research expands in the areas of developing intelligent systems:
+
+Software agent systems for intelligent tutoring system
+Ontology for a smart rooms and ubiquitous systems
+Text mining systems for bioinformatics abstracts
+
+"
